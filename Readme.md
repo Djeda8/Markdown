@@ -11,7 +11,11 @@ Primer nivel de encabezado
 Segundo nivel de encabeado
 --------------------------
 
-#### Parrafos
+#### Parrafos y saltos de linea
+
+Esta es una linea.
+Y esta es otra?
+
 “Andando con sus patitas mojadas,  
 el gorrión  
 por la terraza de madera”.
