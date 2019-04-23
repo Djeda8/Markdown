@@ -20,13 +20,15 @@ Y esta es otra?
 el gorrión  
 por la terraza de madera”.
 
-#### Añadir énfasis
+#### Añadir énfasis *cursiva* __negrita__
 
 ¡Bienvenidos a *The Programming Historian en español*!
 
 ¡Estoy **muy** entusiasmado con los tutoriales de _The Programming Historian en español_!
 
 #### Listados
+
+##### Listas desordenadas anidadas 
 
 Lista de compras
 ---------------
@@ -37,6 +39,8 @@ Lista de compras
 * Lácteos
   * Leche
   * Queso
+
+##### Listas ordenadas
 
 Lista de pendientes
 ------------------
@@ -56,6 +60,16 @@ Lista de pendientes
 </html>
 ```
 
+Código puro <code>
+`Esto es una línea de código`
+    Esto es una línea de código.
+
+#### Códigos de bloque
+~~~
+Creando códigos de bloque.
+Puedes añadir tantas líneas y párrafos como quieras.  
+~~~
+
 #### Bloque de citas
 
 > Hola. Éste es un párrafo de texto incluido en un bloque de cita. Fíjate que tengo una sangría con respecto al margen izquierdo.
@@ -66,8 +80,13 @@ Para más tutoriales visita la página [The Programming Historian en español](/
 Un ejemplo es el sitio *[The Programming Historian en español][1]*
 [1]: http://programminghistorian.org/
 
+<http://www.limni.net>
+
+
 #### Imágenes
 ![Logo de Wikipedia](https://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg "Wikipedia logo")
+
+![Texto alternativo](/ruta/a/la/imagen.jpg "Título alternativo")
 
 #### Reglas y líneas horizontales
 ___
@@ -85,3 +104,7 @@ ___
 | :-------- | :-------: | --------: |
 | Manzanas | rojo | 5000 |
 | Plátanos | amarillo | 75 |
+
+
+#### Omitir Markdown
+Escribiéndola \ justo delante de cualquiera de los elementos que verás a continuación, los mismos no tendrán efecto a la hora de convertirse en negritas, cursivas, links…
