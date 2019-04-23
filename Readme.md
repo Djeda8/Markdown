@@ -11,6 +11,11 @@ Primer nivel de encabezado
 Segundo nivel de encabeado
 --------------------------
 
+#### Parrafos
+“Andando con sus patitas mojadas,  
+el gorrión  
+por la terraza de madera”.
+
 #### Añadir énfasis
 
 ¡Bienvenidos a *The Programming Historian en español*!
